@@ -1,0 +1,21 @@
+a {
+    text-decoration-line: none;
+    color:blue;
+}
+body {
+background-color: rgb(23, 22, 22);
+
+}
+header {
+background-color: rgb(32, 32, 32);
+
+}
+footer {
+    background-color: rgb(32, 32, 32);
+    border-radius: 7px;
+
+    }
+.Coming-Soon {
+color: white;
+
+}

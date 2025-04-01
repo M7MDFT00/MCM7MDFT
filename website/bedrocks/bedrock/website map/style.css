@@ -1,0 +1,18 @@
+header {
+background-color: rgb(37, 37, 37);
+
+}
+body {
+    background-color: black;
+
+}
+footer {
+background-color: rgb(37, 37, 37);
+
+}
+p {
+    color: white;
+}
+a {
+    text-decoration: none;
+}
