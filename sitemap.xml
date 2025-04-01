@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/javas/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-addon/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-map/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-resource-pack/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-worlds/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/javas/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-addon/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-map/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-resource-pack/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://m7mdft00.github.io/MC-M7MDFT/website/bedrocks/bedrock/website-worlds/support/index.html</loc>
+  <lastmod>2025-03-30T17:03:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+</urlset>
