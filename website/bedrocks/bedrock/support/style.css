@@ -2,15 +2,13 @@ footer
 {
       color
       :white ;
-      background-color: rgb(38, 37, 37);
-border-radius: 21px;
 
 }
-h2
+h5
 {
 
     color
-    :rgb(255, 234, 234) 
+    :rgb(99, 97, 97) 
 
 }
 a
@@ -19,6 +17,6 @@ a
  : none;
       
       color
-      :rgb(15, 0, 101) ;
+      :rgb(57, 2, 57) ;
 
 }
