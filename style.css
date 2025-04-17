@@ -6,6 +6,11 @@ body {
    margin: auto;
    border: auto;
 }
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0; 
+}
 
 a {
    text-decoration-line:none;          
@@ -27,9 +32,9 @@ header, a {
 }
 
 .collection {
-   padding-left: 8in;
+   padding-left: 50%;
+   margin: 1px;
 }
-
 .a5 {
    padding: 13px;  
    transition: all 0.3s ease;
@@ -50,30 +55,14 @@ header, a {
    transform: scale(1.2);
    color: rgba(244, 244, 142, 0.384);
 }
-
-.footer {
-   background-color: #424141;
-   padding: 20px;
-}
 footer {
    background-color: #424141;
-   padding: 20px;
-   position: relative;
-   bottom: 0;
-   width: 100%;
-   clear: both;
 }
 footer h1 {
    padding: 1px;
    margin: 5px;
    padding-bottom: 3px;
 }
-
-footer {
-   padding-bottom: 6px;
-   width: 100%;
-}
-
 .spa {
    padding-bottom: 100%;
 }
@@ -81,7 +70,6 @@ footer {
 .java, .bedrock {
    transition: all 0.3s ease;
 }
-
 .java:hover {
    transform: scale(1.2);
 }
@@ -89,7 +77,9 @@ footer {
 .bedrock:hover {
    transform: scale(1.2);
 }
-
+.pmb {
+width: 50%;
+}
 /* Media Queries for different screen sizes */
 
 @media only screen and (max-width: 768px) {
