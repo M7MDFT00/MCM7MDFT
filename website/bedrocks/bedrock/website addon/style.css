@@ -73,8 +73,15 @@ footer {
    padding-bottom: 6px;
 }
 
-.spa {
+/* .spa {
    padding-bottom: 100%;
+} */
+img {
+   padding: 12px;
+   transition: all 0.3s ease;
+}
+img:hover {
+   transform: scale(1.2);
 }
 img {
    padding: 12px;
@@ -83,8 +90,38 @@ img {
 img:hover {
    transform: scale(1.2);
 }
-
-
+.collect {
+   padding: 5px;
+   margin: 5px;
+   width: auto;
+   height: auto;
+   border-radius: 5px;
+   background-color: #1c1b1b;
+}
+.File-RP {
+   display: flex;
+}
+.Img-RP {
+background-color: #424141;
+border-radius: 5px;
+transition: all 0.3s ease;
+}
+.Img-RP:hover {
+   transform: scale(1.2);
+   background-color: white;
+}
+.name {
+ padding: 5px;
+ padding-top: 13px;
+}
+.Tr {
+   color: blue;
+   padding: 3px;
+   transition: all 0.3s ease;
+}
+.Tr:hover {
+   color: white;
+}
 /* Media Queries for different screen sizes */
 
 @media only screen and (max-width: 768px) {
