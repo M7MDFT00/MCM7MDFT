@@ -1,24 +1,9 @@
-footer
-{
-      color
-      :white ;
-      background-color: rgb(38, 37, 37);
-border-radius: 21px;
-
-}
 h2
 {
-
-    color
-    :rgb(255, 234, 234) 
-
+    color:rgb(255, 234, 234) 
 }
 a
 {
- text-decoration-line
- : none;
-      
-      color
-      :rgb(15, 0, 101) ;
-
+      text-decoration-line: none;
+      color:rgb(15, 0, 101) ;
 }
